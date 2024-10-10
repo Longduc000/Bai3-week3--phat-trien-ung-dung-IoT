@@ -2,7 +2,7 @@
 
 
 void setup() {
-  pinMode(LED_BUILTIN, OUTPUT); // Cấu hình chân GPIO 5 làm chân xuất (output)
+  pinMode(LED_BUILTIN, OUTPUT); 
 }
 
 void loop() {
